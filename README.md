@@ -1,7 +1,7 @@
 ## Hi👋
 
 # 💫 About Me:
-Full Stack Developer 😎<br>Building Webs that (mostly) work ✅<br>Ctrl + C | Ctrl + V expert 🧠
+Full Stack Developer 😎<br>Building Webs that (mostly) work ✅<br>
 
 
 ## 🌐 Socials:
